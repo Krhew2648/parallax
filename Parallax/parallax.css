@@ -1,0 +1,365 @@
+@charset "UTF-8";
+body{
+    background-color: rgba(235,188,212,1.00);	
+}
+.hero-section {
+    color: #000000;
+    margin: auto;
+    font-size: 150%;
+    padding: 300px;
+    width: 1300px;
+    height: 500px;
+    background-image: url(sun-header.png);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-shadow: 0px 0px 20px rgba(212,212,212,1.00);
+    text-align: center;
+    border-top-left-radius: 70px;
+    border-top-right-radius: 70px;
+}
+main{
+    width: 1900px;
+    height: 250px;
+	margin: auto;
+    background-color: rgba(255,252,252,1.00);
+	font-size: 30px;
+}
+.narration{
+	height: auto;
+    width: 500px;
+    margin: auto;
+    padding-top: 50px;
+	padding-bottom: 20px;
+    text-align: center;	
+}
+.grayscale{
+    color: #000000;
+    margin: auto;
+    font-size: 150%;
+    padding: 300px;
+    width: 1300px;
+    height: 500px;
+    background-image: url(sun-header-gray.png);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.blessing{
+    color: #000000;
+    margin: auto;
+    font-size: 150%;
+    padding: 300px;
+    width: 1300px;
+    height: 1300px;
+    background-image: url(sun-header-gray-long.png);
+    background-attachment: scroll;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.yflame{
+    width: 200px;
+    height: 270px;
+    display: block;
+	margin: auto;
+	padding-top: 100px;
+	position: sticky;
+	top: 0px;
+	z-index: 1;
+}
+.Desert{
+    color: #000000;
+    margin: auto;
+    font-size: 150%;
+    padding: 300px;
+    width: 1300px;
+    height: 500px;
+    background-image: url(Crash.png);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.landscape{
+    color: #000000;
+    margin: auto;
+    font-size: 150%;
+    padding: 300px;
+    width: 1300px;
+    height: 500px;
+    background-image: url(world1.png);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.canyon{
+    color: #000000;
+    margin: auto;
+    font-size: 150%;
+    padding: 300px;
+    width: 1300px;
+    height: 1500px;
+    background-image: url(Canyon.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.yellowtrip{
+	z-index: 2;
+	display: block;
+	margin: auto;
+	position: sticky;
+	top: 90px;
+	bottom: 30px;
+}
+.volcanyon{
+    color: #000000;
+    margin: auto;
+    font-size: 150%;
+    padding: 300px;
+    width: 1300px;
+    height: 500px;
+    background-image: url(Volcanyon.png);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.narration2{
+    height: auto;
+    width: 500px;
+    margin: auto;
+    padding-top: 50px;
+    padding-bottom: 20px;
+    text-align: center;
+    font-size: 28px;
+}
+.prepare{
+    color: #000000;
+    margin: auto;
+    font-size: 150%;
+    padding: 300px;
+    width: 1300px;
+    height: 500px;
+    background-image: url(prepare.png);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.jump{
+    color: #000000;
+    margin: auto;
+    font-size: 150%;
+    padding: 300px;
+    width: 1300px;
+    height: 2000px;
+    background-image: url(chasm.png);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.jump img{
+	display: block;
+	margin: auto;
+	width: 150px;
+	height: 250px;
+	padding-top: 900px;
+}
+.redpressence{
+    color: #000000;
+    margin: auto;
+    font-size: 150%;
+    padding: 300px;
+    width: 1300px;
+    height: 500px;
+    background-image: url(redpresence.png);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.orange{
+    color: #000000;
+    margin: auto;
+    font-size: 150%;
+    padding: 300px;
+    width: 1300px;
+    height: 2200px;
+    background-image: url(orangebirth.png);
+    background-attachment: scroll;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.orange img{
+	display: block;
+	margin: auto;
+	z-index: 2;
+}
+.lightbeam{
+	z-index: 1;
+	display: block;
+	margin: auto;
+	position: sticky;
+	top: 0px;
+}
+.freered{
+    color: #000000;
+    margin: auto;
+    font-size: 150%;
+    padding: 300px;
+    width: 1300px;
+    height: 500px;
+    background-image: url(freered.png);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.talk1{
+    color: #000000;
+    margin: auto;
+    font-size: 150%;
+    padding: 300px;
+    width: 1300px;
+    height: 500px;
+    background-image: url(Talk1.png);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.world2{
+    color: #000000;
+    margin: auto;
+    font-size: 150%;
+    padding: 300px;
+    width: 1300px;
+    height: 500px;
+    background-image: url(world2.png);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.forest{
+    color: #000000;
+    margin: auto;
+    font-size: 150%;
+    padding: 300px;
+    width: 1300px;
+    height: 2500px;
+    background-image: url(mountainforest.png);
+    background-attachment: scroll;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.forest .yellow{
+    display: block;
+    width: 250px;
+    height: 425px;
+    float: left;
+	padding-right: 50px;
+	padding-top: 150px;
+	padding-left: 350px;
+	margin: auto;
+	position: sticky;
+	top: 90px;
+	bottom: 30px;
+}
+.forest .red{
+    display: block;
+    width: 250px;
+    height: 425px;
+    float: left;
+	padding-left: 50px;
+	margin: auto;
+	position: sticky;
+	top: 90px;
+	bottom: 30px;
+}
+.climb{
+    color: #000000;
+    margin: auto;
+    font-size: 150%;
+    padding: 300px;
+    width: 1300px;
+    height: 500px;
+    background-image: url(mountainclimb.png);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.ice{
+    color: #000000;
+    margin: auto;
+    font-size: 150%;
+    padding: 300px;
+    width: 1300px;
+    height: 500px;
+    background-image: url(blueice.png);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.freeblue{
+    color: #000000;
+    margin: auto;
+    font-size: 150%;
+    padding: 300px;
+    width: 1300px;
+    height: 500px;
+    background-image: url(freeblue.png);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.talk2{
+    color: #000000;
+    margin: auto;
+    font-size: 150%;
+    padding: 300px;
+    width: 1300px;
+    height: 500px;
+    background-image: url(talk2.png);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.world3{
+    color: #000000;
+    margin: auto;
+    font-size: 150%;
+    padding: 300px;
+    width: 1300px;
+    height: 500px;
+    background-image: url(world3.png);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 90%;
+}
+.world3-5{
+    color: #000000;
+    margin: auto;
+    font-size: 150%;
+    padding: 300px;
+    width: 1300px;
+    height: 500px;
+    background-image: url(world3.5.png);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 90%;
+}
